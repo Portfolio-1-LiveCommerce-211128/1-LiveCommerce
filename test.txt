@@ -1,14 +1,1 @@
-Test for wh-kwon branch in Github desktop.
-Test2
-<<<<<<< HEAD
-Test3
-=======
-<<<<<<< Updated upstream
-Test3
-=======
-Test3
-
-
-Test4
->>>>>>> Stashed changes
->>>>>>> wh-kwon
+Test Ok.
