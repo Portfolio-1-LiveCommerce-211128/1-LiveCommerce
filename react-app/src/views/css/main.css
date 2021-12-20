@@ -1,0 +1,11 @@
+.mainNavi {
+    background-color: pink;
+};
+
+.mainNavi li {
+    list-style-type: none;
+    text-decoration-line: none;
+    float: left;
+    font-size: 2vw;
+    margin: 1vw;
+};

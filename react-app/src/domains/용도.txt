@@ -1,0 +1,6 @@
+★components 폴더와 구조를 1:1로 매핑하여 사용할 것
+
+- 주제별로 구분할 수 있는 컴포넌트
+domains/accounts/login
+domains/accounts/signup 등
+

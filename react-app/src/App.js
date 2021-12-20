@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import MainNavi from './main';
+import MainNavi from '../../routes/main';
 
 // function App() {
 //   return (
